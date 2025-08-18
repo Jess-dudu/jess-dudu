@@ -4,7 +4,7 @@ I am very interested in programming and try to apply it to help my other interes
 
 - 🔭 I’m currently working on [Python for Intuitive Math](https://pythonforintuitivemath.streamlit.app/) to help visualizing abstract math/physics concepts.
 - 🌱 I’m currently learning machine learning techniques by applying it to analyze my tennis videos. Check it out [here](https://github.com/Jess-dudu/TennisVideoWizard)
-- 👯 I'm also working on my [YouTube Channel](https://www.youtube.com/@TennisVisualLearner) to upload slow-motion comparison videos of Tennis Pros to help people learn Tennis Serve.  
+- 👯 I'm also working on my [YouTube Channel](https://www.youtube.com/@TennisVisualLearner) to upload slow-motion comparison videos of Tennis Pros to help people understand how to serve flat/slice/kick.  
 
 <!--
 **Jess-dudu/jess-dudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
