@@ -3,8 +3,8 @@
 I'm passionate about leveraging technology to improve everyday life, satisfy my curiosity, and solve real-world problems. I learn best by building. Here are a few projects I'm actively working on:  
 
 - 🔭 [Python for Intuitive Math](https://pythonforintuitivemath.streamlit.app/) — an interactive app that makes advanced concepts/technologies intuitive through visualization, simulation, and data analysis.
-- 🌱 Tennis Video Wizard — applying machine learning techniques to analyze tennis videos. Check it out [here](https://github.com/Jess-dudu/TennisVideoWizard)
-- 👯 TennisVisualLearner (YouTube Channel) — slow-motion comparison videos of professional serves (flat, slice, kick) to help players learn technique visually. [YouTube Channel](https://www.youtube.com/@TennisVisualLearner).  
+- 🌱 [Tennis Video Wizard](https://github.com/Jess-dudu/TennisVideoWizard) — applying machine learning techniques to analyze tennis videos.
+- 👯 TennisVisualLearner ([YouTube Channel](https://www.youtube.com/@TennisVisualLearner)) — slow-motion comparison videos of professional serves (flat, slice, kick) to help players learn technique visually.  
 
 <!--
 **Jess-dudu/jess-dudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
